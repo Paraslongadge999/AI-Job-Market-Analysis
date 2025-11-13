@@ -30,7 +30,7 @@ It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python
 - Interactive slicers (Year, Location, Industry, Experience)
 
 **Screenshot:**  
-`![Page 1](Images/page1_overview.png)`
+`![Page 1](Images/page1.png)`
 
 ---
 
@@ -44,7 +44,7 @@ It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python
 - Insights summary panel  
 
 **Screenshot:**  
-`![Page 2](Images/page2_salary.png)`
+`![Page 2](Images/page2.png)`
 
 ---
 
@@ -59,7 +59,7 @@ It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python
 - Insights summary  
 
 **Screenshot:**  
-`![Page 3](Images/page3_global_trends.png)`
+`![Page 3](Images/page3.png)`
 
 ---
 
@@ -105,7 +105,7 @@ It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/AI-Job-Market-Analysis.git
+git clone https://github.com/<Paraslongadge999>/AI-Job-Market-Analysis.git
 
 
 
