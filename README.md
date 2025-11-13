@@ -16,53 +16,6 @@ This project analyzes the global **AI job market from 2020 to 2027**, exploring:
 
 It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python EDA notebook**, making it a complete end-to-end analytics project built for portfolio and internship applications.
 
----
-
-## 📁 Project Structure
-
-AI-Job-Market-Analysis/
-│
-├── PowerBI/
-│ └── AI Jobs Dashboards.pbix
-│
-├── Notebook/
-│ └── EDA_AI_Job_Market.ipynb
-│
-├── Dataset/
-│ └── ai_job_dataset.csv
-│
-├── Images/
-│ ├── page1_overview.png
-│ ├── page2_salary_insights.png
-│ └── page3_global_trends.png
-│
-└── README.md
-
-
----
-
-## 📸 Dashboard Screenshots
-
-### 🟦 Page 1 — AI Job Market Overview (2020–2025)
-<p align="center">
-  <img src="Images/Page_1.png" width="900">
-</p>
-
----
-
-### 🟩 Page 2 — AI Salary Insights
-<p align="center">
-  <img src="Images/Page_2.png" width="900">
-</p>
-
----
-
-### 🟧 Page 3 — Global AI Job Trends & Forecast (2020–2027)
-<p align="center">
-  <img src="Images/Page_3.png" width="900">
-</p>
-
----
 
 # 📌 Dashboard Pages
 
@@ -129,4 +82,4 @@ AI-Job-Market-Analysis/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/AI-Job-Market-Analysis.git
+git clone https://github.com/<Paraslongadge999>/AI-Job-Market-Analysis.git
