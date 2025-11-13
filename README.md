@@ -3,72 +3,136 @@
 
 ---
 
-## 🧠 Project Overview
-This project analyzes the global **AI job market from 2020 to 2027**, exploring:
+## 🚀 Introduction
+Artificial Intelligence continues to be one of the fastest-growing job markets globally.  
+This project presents an end-to-end analysis of **AI hiring trends, skill demands, salary patterns, education requirements, and future job forecasts** using:
 
-- Worldwide hiring trends  
-- Salary insights  
-- Top required skills  
-- Education requirements  
-- Work mode preferences  
-- Geographic distribution  
-- AI job growth forecasts  
+- **Power BI Dashboards**  
+- **Python Exploratory Data Analysis (EDA)**  
+- **Cleaned & transformed datasets**  
+- **Forecasting models**  
+- **Interactive slicers and KPIs**  
 
-It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python EDA notebook**, making it a complete end-to-end analytics project built for portfolio and internship applications.
+The goal was to build a *portfolio-ready* analytics project demonstrating strong skills in **data cleaning, modeling, visualization, storytelling, and business insight generation**.
 
+---
+
+# ⭐ Key Features of the Project
+
+### ✔ 3 Fully-Interactive Power BI Dashboard Pages  
+- Global hiring distribution  
+- Salary insights by multiple dimensions  
+- Experience and education analysis  
+- Top skill-demand breakdown  
+- AI job market forecast (2024–2027)
+
+### ✔ Advanced Data Cleaning  
+- Formatting inconsistent fields  
+- Extracting skills properly  
+- Standardizing experience & education  
+- Handling missing values  
+- Creating derived fields (Salary Category, Work Mode, Year, etc.)
+
+### ✔ Professional Data Modeling  
+- Star-schema style approach  
+- Calculated columns  
+- DAX measures (KPIs, YoY growth, median salary)
+
+### ✔ Insight-Driven Storytelling  
+- Focus on *business implications*  
+- Interpretation of global hiring trends  
+- Explanation of salary variations  
+- Comparison of experience levels  
+- Education requirements breakdown  
+- Future hiring patterns
+
+---
+
+# 🧠 Python + Power BI Workflow
+
+### **1. Data Preparation (Python)**
+- Read CSV dataset  
+- Handle missing values  
+- Clean job titles, skills, education  
+- Extract year from posting date  
+- Feature engineering (skill count, description length)  
+- Export clean dataset for Power BI  
+
+### **2. Power BI Data Modeling**
+- Load cleaned dataset  
+- Remove redundancies using Power Query  
+- Create calculated columns:
+  - `Salary Category`
+  - `Work Mode`
+  - `Year`
+  - `Median Salary`
+- Build relationships & organize data view  
+
+### **3. Visualization & Storytelling**
+- KPIs (Total Jobs, Avg Salary, YoY Growth)  
+- Salary by experience  
+- Education vs job demand  
+- Global hiring map  
+- Top 10 skills  
+- Hiring forecast using Power BI analytics model  
+
+---
 
 # 📌 Dashboard Pages
 
-## 🟦 Page 1 — AI Job Market Overview
-- Total jobs, remote jobs, avg salary, YoY growth  
-- Hiring trend 2020–2025  
-- Top job roles  
+## 🟦 Page 1 — **AI Job Market Overview**
+- Total job openings  
+- Total remote jobs  
+- YoY growth %  
+- Hiring trend (2020–2025)  
+- Top AI job titles by share  
 - Top hiring countries  
-- Interactive slicers  
+- Global insights panel  
 
-## 🟩 Page 2 — AI Salary Insights
-- Salary by experience level  
+## 🟩 Page 2 — **AI Salary Insights**
+- Salary vs experience level  
+- Salary vs company size  
 - Salary by work mode  
-- Salary by company size  
 - Hiring distribution by industry  
 - Page-level insights  
 
-## 🟧 Page 3 — Global AI Trends & Forecast
-- World hiring heatmap  
-- Top 10 AI skills  
-- Job demand by education  
-- AI hiring forecast (2024–2027)  
-- KPIs: Countries hiring, required experience, top skill  
+## 🟧 Page 3 — **Global AI Trends & Forecast**
+- Map of global AI job activity  
+- Top 10 in-demand AI skills  
+- Job demand by education level  
+- Required experience breakdown  
+- Hiring forecast (2024–2027)  
 - Global insights summary  
 
 ---
 
-# 🔍 Key Insights
+# 🎯 Key Insights
 
 ### 🌍 Global Hiring
-- North America, Europe, and APAC show the highest AI job concentrations.
+- North America, Europe, and APAC dominate global AI hiring, driven by strong tech ecosystems.
 
 ### 🧠 Skill Demand
-- Python, SQL, TensorFlow, and PyTorch dominate job requirements.
+- Python, SQL, TensorFlow, and PyTorch together make up the core technology stack for top AI roles.
 
 ### 🎓 Education
-- Bachelor’s & Master’s degrees are most requested; PhDs appear in research roles.
+- Bachelor’s and Master’s degrees are the most requested for AI roles.
+- PhDs mainly appear in deep research and advanced ML roles.
 
 ### 📈 Forecast
-- AI hiring is projected to grow steadily through 2027 across industries.
+- AI hiring is expected to **grow steadily through 2027**, with increased adoption across healthcare, finance, energy, and manufacturing.
 
 ---
 
 # 🛠 Technologies Used
 
-### Tools
+### **Tools**
 - Power BI Desktop  
 - Python (Pandas, Matplotlib, Seaborn)  
 - Power Query  
 - DAX  
 - Git & GitHub  
 
-### Techniques
+### **Techniques**
 - Data cleaning  
 - Data modeling  
 - KPI creation  
@@ -78,8 +142,22 @@ It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python
 
 ---
 
+# 📚 Learning Outcomes
+Through this project, I strengthened my skills in:
+
+- Real-world dataset cleaning  
+- Designing professional dashboards  
+- Choosing the right visualization for each insight  
+- Using DAX to build business KPIs  
+- Creating analytical narratives for decision-makers  
+- Forecasting future hiring patterns  
+- Structuring projects for GitHub & portfolios  
+
+---
+
 # ▶️ How to Run the Project
 
-### 1. Clone the repo
+### **1. Clone the repository**
 ```bash
 git clone https://github.com/<Paraslongadge999>/AI-Job-Market-Analysis.git
+
