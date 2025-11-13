@@ -41,23 +41,23 @@ AI-Job-Market-Analysis/
 
 ---
 
-# 📸 Dashboard Screenshots
+## 📸 Dashboard Screenshots
 
-## 🟦 Page 1 — AI Job Market Overview (2020–2025)
+### 🟦 Page 1 — AI Job Market Overview (2020–2025)
 <p align="center">
   <img src="Images/Page_1.png" width="900">
 </p>
 
 ---
 
-## 🟩 Page 2 — AI Salary Insights
+### 🟩 Page 2 — AI Salary Insights
 <p align="center">
   <img src="Images/Page_2.png" width="900">
 </p>
 
 ---
 
-## 🟧 Page 3 — Global AI Job Trends & Forecast (2020–2027)
+### 🟧 Page 3 — Global AI Job Trends & Forecast (2020–2027)
 <p align="center">
   <img src="Images/Page_3.png" width="900">
 </p>
