@@ -30,7 +30,7 @@ It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python
 - Interactive slicers (Year, Location, Industry, Experience)
 
 **Screenshot:**  
-`![Page 1](Images/page1.png)`
+`![Page 1](Images/Page1.png)`
 
 ---
 
@@ -44,7 +44,7 @@ It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python
 - Insights summary panel  
 
 **Screenshot:**  
-`![Page 2](Images/page2.png)`
+`![Page 2](Images/Page2.png)`
 
 ---
 
@@ -59,7 +59,7 @@ It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python
 - Insights summary  
 
 **Screenshot:**  
-`![Page 3](Images/page3.png)`
+`![Page 3](Images/Page3.png)`
 
 ---
 
