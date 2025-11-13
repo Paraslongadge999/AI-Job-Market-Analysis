@@ -18,10 +18,54 @@ It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python
 
 ---
 
+## 📁 Project Structure
+
+AI-Job-Market-Analysis/
+│
+├── PowerBI/
+│ └── AI Jobs Dashboards.pbix
+│
+├── Notebook/
+│ └── EDA_AI_Job_Market.ipynb
+│
+├── Dataset/
+│ └── ai_job_dataset.csv
+│
+├── Images/
+│ ├── page1_overview.png
+│ ├── page2_salary_insights.png
+│ └── page3_global_trends.png
+│
+└── README.md
+
+---
+
+# 📸 Dashboard Screenshots
+
+## 🟦 Page 1 — AI Job Market Overview (2020–2025)
+<p align="center">
+  <img src="Images/page1_overview.png" width="900">
+</p>
+
+---
+
+## 🟩 Page 2 — AI Salary Insights
+<p align="center">
+  <img src="Images/page2_salary_insights.png" width="900">
+</p>
+
+---
+
+## 🟧 Page 3 — Global AI Job Trends & Forecast (2020–2027)
+<p align="center">
+  <img src="Images/page3_global_trends.png" width="900">
+</p>
+
+---
+
 # 📌 Dashboard Pages
 
 ## 🟦 Page 1 — AI Job Market Overview
-
 **Includes:**
 - Job demand by year  
 - Global hiring distribution map  
@@ -29,13 +73,9 @@ It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python
 - KPIs: Total Jobs, Avg Salary, YoY Growth  
 - Interactive slicers (Year, Location, Industry, Experience)
 
-**Screenshot:**  
-`![Page 1](Images/Page 1.png)`
-
 ---
 
 ## 🟩 Page 2 — AI Salary Insights
-
 **Includes:**
 - Salary by experience level  
 - Salary by company size  
@@ -43,13 +83,9 @@ It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python
 - Job demand by AI roles  
 - Insights summary panel  
 
-**Screenshot:**  
-`![Page 2](Images/Page 2.png)`
-
 ---
 
 ## 🟧 Page 3 — Global AI Trends & Forecast (2020–2027)
-
 **Includes:**
 - Global job distribution map  
 - AI job trend with forecasting  
@@ -57,9 +93,6 @@ It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python
 - Education requirement analysis  
 - KPIs: Total Countries, Avg Experience, Top Skill  
 - Insights summary  
-
-**Screenshot:**  
-`![Page 3](Images/Page 3.png)`
 
 ---
 
@@ -105,7 +138,4 @@ It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<Paraslongadge999>/AI-Job-Market-Analysis.git
-
-
-
+git clone https://github.com/<your-username>/AI-Job-Market-Analysis.git
