@@ -38,27 +38,28 @@ AI-Job-Market-Analysis/
 │
 └── README.md
 
+
 ---
 
 # 📸 Dashboard Screenshots
 
 ## 🟦 Page 1 — AI Job Market Overview (2020–2025)
 <p align="center">
-  <img src="Images/page1_overview.png" width="900">
+  <img src="Images/Page_1.png" width="900">
 </p>
 
 ---
 
 ## 🟩 Page 2 — AI Salary Insights
 <p align="center">
-  <img src="Images/page2_salary_insights.png" width="900">
+  <img src="Images/Page_2.png" width="900">
 </p>
 
 ---
 
 ## 🟧 Page 3 — Global AI Job Trends & Forecast (2020–2027)
 <p align="center">
-  <img src="Images/page3_global_trends.png" width="900">
+  <img src="Images/Page_3.png" width="900">
 </p>
 
 ---
@@ -66,76 +67,66 @@ AI-Job-Market-Analysis/
 # 📌 Dashboard Pages
 
 ## 🟦 Page 1 — AI Job Market Overview
-**Includes:**
-- Job demand by year  
-- Global hiring distribution map  
-- Job roles demand  
-- KPIs: Total Jobs, Avg Salary, YoY Growth  
-- Interactive slicers (Year, Location, Industry, Experience)
-
----
+- Total jobs, remote jobs, avg salary, YoY growth  
+- Hiring trend 2020–2025  
+- Top job roles  
+- Top hiring countries  
+- Interactive slicers  
 
 ## 🟩 Page 2 — AI Salary Insights
-**Includes:**
 - Salary by experience level  
-- Salary by company size  
 - Salary by work mode  
-- Job demand by AI roles  
-- Insights summary panel  
+- Salary by company size  
+- Hiring distribution by industry  
+- Page-level insights  
 
----
-
-## 🟧 Page 3 — Global AI Trends & Forecast (2020–2027)
-**Includes:**
-- Global job distribution map  
-- AI job trend with forecasting  
-- Top 10 in-demand skills  
-- Education requirement analysis  
-- KPIs: Total Countries, Avg Experience, Top Skill  
-- Insights summary  
+## 🟧 Page 3 — Global AI Trends & Forecast
+- World hiring heatmap  
+- Top 10 AI skills  
+- Job demand by education  
+- AI hiring forecast (2024–2027)  
+- KPIs: Countries hiring, required experience, top skill  
+- Global insights summary  
 
 ---
 
 # 🔍 Key Insights
 
 ### 🌍 Global Hiring
-- **North America, Europe, and APAC dominate** AI job postings.
-- Hiring remains stable and shows long-term growth.
+- North America, Europe, and APAC show the highest AI job concentrations.
 
-### 🧠 Skills
-- **Python, SQL, TensorFlow, and PyTorch** lead global demand.
-- ML, DL, and cloud-based tools continue rising.
+### 🧠 Skill Demand
+- Python, SQL, TensorFlow, and PyTorch dominate job requirements.
 
 ### 🎓 Education
-- **Bachelor’s and Master’s degrees** are most required.
-- PhDs mainly appear in research and advanced AI roles.
+- Bachelor’s & Master’s degrees are most requested; PhDs appear in research roles.
 
 ### 📈 Forecast
-- AI job demand is expected to **rise through 2027**, driven by automation and cloud adoption.
+- AI hiring is projected to grow steadily through 2027 across industries.
 
 ---
 
 # 🛠 Technologies Used
 
-### Tools & Languages
-- **Power BI Desktop**  
-- **Python** (Pandas, Matplotlib, Seaborn)  
-- **Power Query**  
-- **DAX (Data Analysis Expressions)**  
-- **Git & GitHub**
+### Tools
+- Power BI Desktop  
+- Python (Pandas, Matplotlib, Seaborn)  
+- Power Query  
+- DAX  
+- Git & GitHub  
 
-### Concepts Applied
-- Data cleaning & preprocessing  
-- Data modeling & relationships  
-- DAX measures & KPIs  
-- Time-series forecasting  
-- Geospatial visualization  
-- Insight communication & storytelling  
+### Techniques
+- Data cleaning  
+- Data modeling  
+- KPI creation  
+- Forecasting  
+- Geospatial visuals  
+- Insight storytelling  
 
 ---
 
 # ▶️ How to Run the Project
 
-### 1. Clone the repository
+### 1. Clone the repo
 ```bash
 git clone https://github.com/<your-username>/AI-Job-Market-Analysis.git
