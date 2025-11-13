@@ -1,199 +1,111 @@
-📊 AI Job Market Analysis (2020–2027)
-Power BI • Python • Data Cleaning • DAX • Forecasting • Analytics Storytelling
-🧠 Project Overview
+# 📊 AI Job Market Analysis (2020–2027)
+### *Power BI • Python • Data Cleaning • DAX • Forecasting • Analytics Storytelling*
 
-This project analyzes the global AI job market from 2020 to 2027, exploring:
+---
 
-Hiring trends
+## 🧠 Project Overview
+This project analyzes the global **AI job market from 2020 to 2027**, exploring:
 
-Salary patterns
+- Worldwide hiring trends  
+- Salary insights  
+- Top required skills  
+- Education requirements  
+- Work mode preferences  
+- Geographic distribution  
+- AI job growth forecasts  
 
-Required skills
+It includes a **3-page Power BI dashboard**, **cleaned dataset**, and a **Python EDA notebook**, making it a complete end-to-end analytics project built for portfolio and internship applications.
 
-Education requirements
+---
 
-Work modes
+# 📌 Dashboard Pages
 
-Global distribution
+## 🟦 Page 1 — AI Job Market Overview
 
-Forecasted job growth
+**Includes:**
+- Job demand by year  
+- Global hiring distribution map  
+- Job roles demand  
+- KPIs: Total Jobs, Avg Salary, YoY Growth  
+- Interactive slicers (Year, Location, Industry, Experience)
 
-It includes a 3-page interactive Power BI dashboard, cleaned dataset, and a Python EDA notebook, making it a complete end-to-end data analysis case study.
+**Screenshot:**  
+`![Page 1](Images/page1_overview.png)`
 
-This project is designed to showcase industry-ready data analytics skills for internship and job applications.
+---
 
-📁 Project Structure
-AI-Job-Market-Analysis/
-│
-├── PowerBI/
-│   └── AI Jobs Dashboards.pbix
-│
-├── Notebook/
-│   └── EDA_AI_Job_Market.ipynb
-│
-├── Dataset/
-│   └── ai_job_dataset.csv
-│
-├── Images/
-│   ├── page1_overview.png
-│   ├── page2_salary.png
-│   └── page3_global_trends.png
-│
-└── README.md
+## 🟩 Page 2 — AI Salary Insights
 
-📌 Dashboard Pages
-🟦 Page 1 — AI Job Market Overview
+**Includes:**
+- Salary by experience level  
+- Salary by company size  
+- Salary by work mode  
+- Job demand by AI roles  
+- Insights summary panel  
 
-Key Visuals:
+**Screenshot:**  
+`![Page 2](Images/page2_salary.png)`
 
-Job demand by year
+---
 
-Global hiring distribution
+## 🟧 Page 3 — Global AI Trends & Forecast (2020–2027)
 
-Job roles demand
+**Includes:**
+- Global job distribution map  
+- AI job trend with forecasting  
+- Top 10 in-demand skills  
+- Education requirement analysis  
+- KPIs: Total Countries, Avg Experience, Top Skill  
+- Insights summary  
 
-KPIs: Total Jobs, Avg Salary, YoY Growth
+**Screenshot:**  
+`![Page 3](Images/page3_global_trends.png)`
 
-Filters for Year, Industry, Experience, Country
+---
 
-👉 Screenshot:
-![Page 1](Images/page1_overview.png)
+# 🔍 Key Insights
 
-🟩 Page 2 — AI Salary Insights
+### 🌍 Global Hiring
+- **North America, Europe, and APAC dominate** AI job postings.
+- Hiring remains stable and shows long-term growth.
 
-Key Visuals:
+### 🧠 Skills
+- **Python, SQL, TensorFlow, and PyTorch** lead global demand.
+- ML, DL, and cloud-based tools continue rising.
 
-Salary by experience level
+### 🎓 Education
+- **Bachelor’s and Master’s degrees** are most required.
+- PhDs mainly appear in research and advanced AI roles.
 
-Salary by company size
+### 📈 Forecast
+- AI job demand is expected to **rise through 2027**, driven by automation and cloud adoption.
 
-Salary by work mode
+---
 
-Job demand by role
+# 🛠 Technologies Used
 
-Insight summary
+### Tools & Languages
+- **Power BI Desktop**  
+- **Python** (Pandas, Matplotlib, Seaborn)  
+- **Power Query**  
+- **DAX (Data Analysis Expressions)**  
+- **Git & GitHub**
 
-👉 Screenshot:
-![Page 2](Images/page2_salary.png)
+### Concepts Applied
+- Data cleaning & preprocessing  
+- Data modeling & relationships  
+- DAX measures & KPIs  
+- Time-series forecasting  
+- Geospatial visualization  
+- Insight communication & storytelling  
 
-🟧 Page 3 — Global AI Trends & Forecast (2020–2027)
+---
 
-Key Visuals:
+# ▶️ How to Run the Project
 
-Global job distribution map
-
-AI job trend & forecast
-
-Top 10 skills worldwide
-
-Education requirements
-
-KPIs: Total Countries, Avg Experience, Top Skill
-
-Insight summary
-
-👉 Screenshot:
-![Page 3](Images/page3_global_trends.png)
-
-🔍 Key Insights
-Global Hiring
-
-North America, Europe, and APAC dominate AI job hiring.
-
-Demand continues rising yearly despite fluctuations.
-
-Skills
-
-Python, SQL, TensorFlow, and PyTorch remain top requirements.
-
-ML, Deep Learning, and Cloud skills have surged.
-
-Education
-
-Bachelor’s and Master’s degrees dominate requirements.
-
-PhDs appear mainly in research-heavy roles.
-
-Forecast
-
-AI job demand is projected to grow through 2027.
-
-More industries (Finance, Healthcare, Energy) are adopting AI.
-
-🛠 Technologies Used
-Languages & Tools
-
-Python: Pandas, Matplotlib, Seaborn
-
-Power BI: DAX, Power Query, Data Modeling
-
-Git & GitHub
-
-CSV & Data cleaning techniques
-
-Concepts Applied
-
-Data cleaning & preprocessing
-
-Data modeling (star schema style)
-
-Advanced DAX measures
-
-Time-series forecasting
-
-Data visualization best practices
-
-Insight storytelling
-
-▶️ How to Run the Project
-1. Clone the repo
+### 1. Clone the repository
+```bash
 git clone https://github.com/<your-username>/AI-Job-Market-Analysis.git
 
-2. Open the Power BI Dashboard
 
-Open:
 
-PowerBI/AI Jobs Dashboards.pbix
-
-3. Explore Python EDA
-
-Open the notebook:
-
-Notebook/EDA_AI_Job_Market.ipynb
-
-4. Data
-
-Dataset is inside:
-
-Dataset/ai_job_dataset.csv
-
-✨ Project Highlights (What Recruiters Notice)
-
-Built from scratch: cleaning → modeling → analysis → visualization
-
-Strong use of DAX, Power Query, and Forecasting
-
-Combines Python + Power BI in one project
-
-Shows storytelling, not just charts
-
-Clean UI, consistent theme, clear insights
-
-Ready for portfolio, resume, and internship applications
-
-👤 Author
-
-Paras Longadge
-
-Data Analyst | Power BI | Python | Visualization
-
-GitHub: https://github.com/
-<your-username>
-
-LinkedIn: <link>
-
-🎉 If you like this project
-
-⭐ Star this repository
-📬 Connect with me on LinkedIn
-🚀 Use it as reference for Power BI + Python analytics projects
